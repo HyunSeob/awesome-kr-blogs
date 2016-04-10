@@ -4,12 +4,12 @@
 한국에는 멋진 글들을 다루는 블로그가 많죠. 우리는 그 블로그들을 다 알지도 못하고, 다 찾을 수도 없습니다. 하지만 각자 자기가 알고있는 멋진 블로그를 공유하면 어떻게 될까요? 자신이 추천하는 블로그들을 이 곳에 공유해주세요. 꼭 기술 분야가 아니어도 좋습니다. 적당한 카테고리가 없다면 직접 추가해주세요.
 
 ## 목차
-- 기술
-  - 일반
-  - 웹
-  - 서버/클라우드
-  - 안드로이드
-  - iOS
+- [기술](https://github.com/HyunSeob/awesome-kr-blogs#기술)
+  - [일반](https://github.com/HyunSeob/awesome-kr-blogs#일반)
+  - [Web](https://github.com/HyunSeob/awesome-kr-blogs#web)
+  - [서버/클라우드](https://github.com/HyunSeob/awesome-kr-blogs#서버클라우드)
+  - [안드로이드](https://github.com/HyunSeob/awesome-kr-blogs#안드로이드)
+  - [iOS](https://github.com/HyunSeob/awesome-kr-blogs#iOS)
 
 ## 기술
 
